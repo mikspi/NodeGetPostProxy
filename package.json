@@ -1,0 +1,26 @@
+{
+  "name": "node-get-post-proxy",
+  "version": "0.0.2",
+  "description": "An http proxy - the first one who works with both GET and POST requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "proxy",
+    "get",
+    "post",
+    "development",
+    "production",
+    "A/B testing"
+  ],
+  "author": "Michele Spina",
+  "license": "ISC",
+  "dependencies": {
+    "require": "x"
+  },
+  "directories": {
+    "example": "example"
+  }
+}
